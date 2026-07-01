@@ -31,4 +31,4 @@ This Power BI dashboard analyzes supermarket sales performance across cities, cu
 
 ## Dataset
 
-Supermarket Sales Dataset
+Supermarket Sales Dataset(supermarket_sales_vn.txt)
